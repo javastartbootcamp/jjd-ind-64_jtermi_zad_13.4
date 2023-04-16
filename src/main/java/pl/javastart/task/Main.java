@@ -10,5 +10,6 @@ public class Main {
         CustomList<String> customListOfStrings = new CustomList();
         CustomList<Integer> customListOfIntegers = new CustomList();
 
+        customListOfIntegers.add(5);
     }
 }
